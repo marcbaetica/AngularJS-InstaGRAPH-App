@@ -1,0 +1,8 @@
+{
+  "name": "instagraph-app",
+  "main": "index.html",
+  "dependencies": {
+    "express": "latest"
+  }
+
+}
